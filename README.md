@@ -1,3 +1,8 @@
-# Wyncode PT10 Github Lecture
+#WYNcode PT10 Github Lecture
 
-Learning about github is fun!
+learning about Git and GitHub is fun.
+
+
+
+
+every thing is awesome when you work on a team !
