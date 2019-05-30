@@ -1,1 +1,1 @@
-alert("Wassup world!")
+alert('the end?')
